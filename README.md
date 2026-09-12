@@ -46,7 +46,6 @@ SmartFileManager/
 │   ├── Models/
 │   ├── Services/
 │   ├── Helpers/
-│   ├── Assets/
 │   ├── App.xaml
 │   ├── MainWindow.xaml
 │   └── SmartFileManager.csproj
