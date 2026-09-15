@@ -66,3 +66,8 @@ If WinUI asks for Developer Mode, enable it from Windows Settings → For develo
 ## Author
 
 Built by **Radwan Abdulhadi Ahmed**.
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/01-smart-file-manager.html
